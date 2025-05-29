@@ -29,8 +29,8 @@ This assignment focuses on basic string operations in Python. It helps build fou
 
 Click the button below to open the notebook:
 
-# Assignment 1 link : [![Open In Colab](https://colab.research.google.com/drive/10XTS2g0C0XTIb_CrufSDHdadM7eQiUaO?usp=sharing)]
-# assignment 2 link :[![Open In Colab](https://colab.research.google.com/drive/1QT0PX4LKtJ_cnDyVMGKxBjKbW06UVJex?usp=sharing)]
+# Assignment 1 link : https://colab.research.google.com/drive/10XTS2g0C0XTIb_CrufSDHdadM7eQiUaO?usp=sharing
+# assignment 2 link : https://colab.research.google.com/drive/1QT0PX4LKtJ_cnDyVMGKxBjKbW06UVJex?usp=sharing
 ---
 
 ## 🧪 Sample Code Snippet
